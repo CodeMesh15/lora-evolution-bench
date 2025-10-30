@@ -67,4 +67,19 @@
 ## 🚀 Quick Start
 
 ### Installation
+Clone the repository
+```python
+clone https://github.com/yourusername/efficient-finetuning-arena.git
+cd efficient-finetuning-arena
+```
+Create virtual environment
+```
+python -m venv venv
+source venv/bin/activate # On Windows: venv\Scripts\activate
+```
+Install dependencies
+```
+pip install -r requirements.txt
+```
+
 
